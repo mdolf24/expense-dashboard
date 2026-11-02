@@ -1,0 +1,34 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Secrets & environment variables
+.env
+.streamlit/secrets.toml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data files (using Google Sheets instead)
+data/
+*.xlsx
+*.csv
+*.json
+*credentials*
+!demo_data/*.csv
+
+# Google service account credentials

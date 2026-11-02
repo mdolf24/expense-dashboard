@@ -1,0 +1,12 @@
+[app]
+person_one = ""
+person_two = ""
+spreadsheet_name = ""
+split_ratios = [0.0, 0.0]
+access_password_hash = ""
+
+[app.monthly_budgets]
+groceries = 0.0
+household = 0.0
+eating_out = 0.0
+housing = 0.0

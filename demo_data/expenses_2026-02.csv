@@ -1,0 +1,6 @@
+Date,Shop,Item,Category,Subcategory,Price,Discount,Final_Price,Who,Split,Exclude_Balance
+2026-02-02,Green Basket,Weekly groceries,groceries,pantry,48.00,3.00,45.00,Jordan,yes,no
+2026-02-08,Home Corner,Light bulbs,household,kitchen_supplies,16.00,0,16.00,Alex,yes,no
+2026-02-14,Olive Table,Shared dinner,eating_out,restaurant,58.00,0,58.00,Alex,yes,no
+2026-02-18,City Utilities,February utilities,housing,utilities,140.00,0,140.00,Jordan,yes,yes
+2026-02-25,Book Nook,Notebook,shopping,office_supplies,9.50,0,9.50,Alex,no,no

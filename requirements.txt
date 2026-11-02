@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+st-gsheets-connection
+gspread
+google-auth
+google-genai
+anthropic
+matplotlib
+openpyxl

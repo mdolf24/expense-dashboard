@@ -1,0 +1,6 @@
+Date,Shop,Item,Category,Subcategory,Price,Discount,Final_Price,Who,Split,Exclude_Balance
+2026-01-03,Fresh Market,Vegetables,groceries,vegetables,24.00,2.00,22.00,Alex,yes,no
+2026-01-05,Home Corner,Cleaning supplies,household,cleaning,18.50,0,18.50,Jordan,yes,no
+2026-01-09,Bean House,Coffee and pastry,eating_out,cafe,12.00,0,12.00,Alex,no,no
+2026-01-15,City Utilities,January utilities,housing,utilities,140.00,0,140.00,Jordan,yes,yes
+2026-01-22,Fresh Market,Pantry staples,groceries,pantry,31.00,1.00,30.00,Jordan,yes,no

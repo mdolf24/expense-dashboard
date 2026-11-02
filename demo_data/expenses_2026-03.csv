@@ -1,0 +1,6 @@
+Date,Shop,Item,Category,Subcategory,Price,Discount,Final_Price,Who,Split,Exclude_Balance
+2026-03-01,Fresh Market,Fruit and dairy,groceries,fruits,36.00,2.00,34.00,Alex,yes,no
+2026-03-06,Home Corner,Laundry supplies,household,cleaning,22.00,0,22.00,Jordan,yes,no
+2026-03-12,Bean House,Team lunch,eating_out,restaurant,42.00,0,42.00,Jordan,yes,no
+2026-03-19,City Utilities,March utilities,housing,utilities,140.00,0,140.00,Jordan,yes,yes
+2026-03-27,Metro Market,Snacks,groceries,snacks,15.00,0,15.00,Alex,no,no
